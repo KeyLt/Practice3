@@ -39,3 +39,4 @@ if  X - h > s - X:
 if  X - h < s - X:
     print(f'Ближайшее число Х равно {h}')
     exit(0)
+    
